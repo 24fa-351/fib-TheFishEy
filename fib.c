@@ -17,7 +17,7 @@ int main(int argumentLine, char *argumentValue[]) {
 
 
    // * I DONT THINK THIS IS RIGHT BUT I PUT IT IN BECAUSE THE TST CASES FIB INDEX SEEMS TO BE OFF BY 1
-   argument1 = argument1;
+   argument1 = argument1-1;
 
 
 
